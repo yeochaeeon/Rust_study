@@ -1,5 +1,0 @@
-nano file_name.rs -- make file
-rustc file_name.rs
-&
-./file_name
-
