@@ -15,7 +15,7 @@ fn main() {
     }
 
     let mut l = Vec::new();
-    for &i in &[100, 50, 10, 1] {
+    for i in [100, 50, 10, 1] {
         l.push(exchange / i);
         exchange %= i;
     }
