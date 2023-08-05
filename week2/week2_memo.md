@@ -8,6 +8,8 @@
 - 0..3 = python의 range
 - ans.push("땡") 답에 땡 집어넣기
 
+<hr>
+
 * me
   - next() = input을 처음에 아무것도 안받는데 그래서 next로 바꿔준다?
   
