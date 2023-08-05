@@ -1,4 +1,4 @@
-# <스터디 1일차>
+# Rust 1주차
 
 ## 과제 {rps. trianle. rps2. shooting} Review 
 
