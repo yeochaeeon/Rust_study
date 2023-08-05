@@ -1,4 +1,4 @@
-## rust 2주차 
+## Rust 2주차 
 
 * usize 양의 정수타입
   - index의 음수참조를 안해줘서 .. list에선 usize써줘야함
