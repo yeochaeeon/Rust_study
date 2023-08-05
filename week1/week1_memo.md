@@ -1,10 +1,12 @@
 # <스터디 1일차>
 
-**과제 {rps. trianle. rps2. shooting} Review** 
+## 과제 {rps. trianle. rps2. shooting} Review 
 
 <hr>
 
 [과제 리뷰 발표]
+
+
 i32, u32 차이는 값의 부호(+,-) 여부
 둘이 가지고 있는 바이트는 같음
 
